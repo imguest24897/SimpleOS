@@ -1,5 +1,7 @@
 # SimpleOS
 SimpleOS is a lightweight, fast, and user-friendly operating system developed with Cosmos in Visual Studio 2022. Designed for simplicity and efficiency, it offers a streamlined experience while showcasing the power of modern OS development. Explore the code and contribute to this minimal yet functional OS!
+> [!WARNING]
+> Please note that this project was moved to Devkit. This repository has been archived anyway. Visit to repository imguest24897/SimpleOS-Devkit.
 ## Error codes:
 ### DUMMY_KERNEL_PANIC
 An dummy kernel panic caused by user.
